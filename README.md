@@ -18,26 +18,29 @@ This project analyzes the impact of Apple's iPhone in the Indian market using *i
 
 ---
 
-## 📸 Dashboard Previews
+### 📊 Dashboard Previews
 
-### 🧭 Dashboard 1  
-![Dashboard 1](dashboard-1.png.png)
+#### Dashboard 1  
+![Dashboard 1](iphone/6.%20Project%20Executable%20phase/dashboard-1.png.png)
 
-### 📈 Dashboard 2  
-![Dashboard 2](dashboard-2.png.png)
+#### Dashboard 2  
+![Dashboard 2](iphone/6.%20Project%20Executable%20phase/dashboard-2.png.png)
 
-### 📊 Dashboard 3  
-![Dashboard 3](dashboard-3.png.png)
+#### Dashboard 3  
+![Dashboard 3](iphone/6.%20Project%20Executable%20phase/dashboard-3.png.png)
 
 ---
 
-## 📚 Story Highlights
+### 📖 Story Highlights
 
-### Story 1  
-![Story-1](story-1.png.png)
+#### Story 1  
+![Story 1](iphone/6.%20Project%20Executable%20phase/story-1.png.png)
 
-### Story 2  
-![Story2-1](story-3.png.png)
+#### Story 2  
+![Story 2](iphone/6.%20Project%20Executable%20phase/story-2.png.png)
+
+#### Story 3  
+![Story 3](iphone/6.%20Project%20Executable%20phase/story-3.png.png)
 
 ---
 
