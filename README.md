@@ -1,24 +1,24 @@
-# 📊 iRevolution: A Data-driven Exploration of Apple's iPhone Impact in India using Tableau
+# 📱 iRevolution: A Data-driven Exploration of Apple's iPhone Impact in India using Tableau
+
 
 ![Logo](https://wallpapers.com/images/hd/gradient-apple-logo-cxx699meb8bluoyw.jpg)
 
----
 
-## 🔍 Overview
 
-This project analyzes the impact of Apple's iPhone in the Indian market using *interactive Tableau dashboards*. It includes KPIs, revenue trends, and market share visuals.
+## Features
+- 📊 Interactive KPI Dashboards
+- 🧠 Spec-wise & Pricing Analytics 
+- 🌍 Region-wise Market Share Maps
+- 📅 Quarterly & Year-wise Trend Storyboards
+- 🎨 Dark UI with Eye-comfort Visualization
+- Futuristic Fonts (Download in your system too. Otherwise, it goes to your system default font)
 
----
+## Installation
+1. Download the Fonts &  `.twbx` Tableau project file.
+2. Open in Tableau Public.
+3. Explore dashboards or customize using the data sheet provided.
 
-## 📁 Files Included
-
-- 📊 ProjectFileSmartBridge.twbx – Tableau workbook with dashboards & stories  
-- 📈 apple_products.xlsx – Raw dataset  
-- 📷 PNG snapshots of dashboards and stories  
-
----
-
-### 📊 Dashboard Previews
+## Dashboards 📸
 
 #### Dashboard 1  
 ![Dashboard 1](iphone/6.%20Project%20Executable%20phase/dashboard-1.png.png)
@@ -29,9 +29,8 @@ This project analyzes the impact of Apple's iPhone in the Indian market using *i
 #### Dashboard 3  
 ![Dashboard 3](iphone/6.%20Project%20Executable%20phase/dashboard-3.png.png)
 
----
 
-### 📖 Story Highlights
+## Stories
 
 #### Story 1  
 ![Story 1](iphone/6.%20Project%20Executable%20phase/story-1.png.png)
@@ -42,15 +41,44 @@ This project analyzes the impact of Apple's iPhone in the Indian market using *i
 #### Story 3  
 ![Story 3](iphone/6.%20Project%20Executable%20phase/story-3.png.png)
 
----
-
-## 🛠 Tools Used
 
 - Tableau Public  
-- Microsoft Excel  
-- GitHub
+- Tableau Preb Builder
+- Excel/CSV (Datasets)  
+- GitHub (Documentation Hosting)
 
----
+
+
+## Documentation
+
+Transformed raw sales and feature data into a strategic visual analytics dashboard for Apple iPhone performance in India using Tableau, powered by design thinking and data storytelling.
+
+All design thinking documentation, storyboards, and architecture are available in the `/8. Doc and Demo` folder.
+[ Click here for Documentation](https://drive.google.com/file/d/15AN1bvYyUA-HEF-wuXahXbG53zrtS0wa/view?usp=drive_link)
+
+## Usage/Examples
+📌 Filter by year/region to discover iPhone growth in South India  
+📌 Analyze pricing trend across battery/display types  
+📌 Use the story view to narrate iPhone’s rise with data  
+
+## Roadmap
+- [x] Data Collection  
+- [x] Data Preparation
+- [x] Data visualization 
+- [x] Dashboard Development  
+- [x] Story Design  
+- [x] Report
+- [x] Performance Testing
+- [x] Project Demonstration & Documentation
+- [x] Final Report
+
+
+
+## Team (LinkedIn Profiles👇)
+
+- [@abhinav](https://www.linkedin.com/in/abhinav-chintalapudi-6615a4300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
+
 
 ## 🙌 Created by:
 
