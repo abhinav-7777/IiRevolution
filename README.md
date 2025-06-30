@@ -34,10 +34,10 @@ This project analyzes the impact of Apple's iPhone in the Indian market using *i
 ## 📚 Story Highlights
 
 ### Story 1  
-![Story1-1](Story1-1.png)
+![Story-1](story-1.png.png)
 
 ### Story 2  
-![Story2-1](Story2-1.png)
+![Story2-1](story-3.png.png)
 
 ---
 
