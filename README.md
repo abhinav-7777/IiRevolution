@@ -24,10 +24,10 @@ This project analyzes the impact of Apple's iPhone in the Indian market using *i
 ![Dashboard 1](Dashboard-1.png.png)
 
 ### 📈 Dashboard 2  
-![Dashboard 2](Dashboard-2.png)
+![Dashboard 2](Dashboard-2.png.png)
 
 ### 📊 Dashboard 3  
-![Dashboard 3](Dashboard-3.png)
+![Dashboard 3](Dashboard-3.png.png)
 
 ---
 
