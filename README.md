@@ -21,13 +21,13 @@ This project analyzes the impact of Apple's iPhone in the Indian market using *i
 ## 📸 Dashboard Previews
 
 ### 🧭 Dashboard 1  
-![Dashboard 1](Dashboard-1.png.png)
+![Dashboard 1](dashboard-1.png.png)
 
 ### 📈 Dashboard 2  
-![Dashboard 2](Dashboard-2.png.png)
+![Dashboard 2](dashboard-2.png.png)
 
 ### 📊 Dashboard 3  
-![Dashboard 3](Dashboard-3.png.png)
+![Dashboard 3](dashboard-3.png.png)
 
 ---
 
