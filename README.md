@@ -76,7 +76,7 @@ Transformed raw sales and feature data into a strategic visual analytics dashboa
 
 
 
-##  (LinkedIn Profiles👇)
+##  (LinkedIn Profile👇)
 
 - [@abhinav](https://www.linkedin.com/in/abhinav-chintalapudi-6615a4300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
