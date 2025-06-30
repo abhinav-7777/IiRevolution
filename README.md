@@ -1,6 +1,6 @@
 # 📊 iRevolution: A Data-driven Exploration of Apple's iPhone Impact in India using Tableau
 
-![Apple Logo](https://i.imgur.com/Hw2bZPt.png)
+![Apple Logo](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg)
 
 ---
 
