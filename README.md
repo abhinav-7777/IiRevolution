@@ -42,10 +42,13 @@
 ![Story 3](iphone/6.%20Project%20Executable%20phase/story-3.png.png)
 
 
+## Tech Stack
+
 - Tableau Public  
 - Tableau Preb Builder
 - Excel/CSV (Datasets)  
 - GitHub (Documentation Hosting)
+
 
 
 
